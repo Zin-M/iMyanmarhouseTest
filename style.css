@@ -1,0 +1,29 @@
+.title{
+    text-align:center;
+    margin-top: 7px;
+    margin-bottom: 20px;
+   
+}
+.checkBox{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.tableContainer{
+    margin-top: 60px;
+}
+
+.table>:not(:first-child){
+    border-top:none;
+}
+
+.btnEdit{
+    text-decoration: none;
+    
+}
+
+.close{
+    float: right;
+    border-radius: 5px;
+    border-color: green;
+}
